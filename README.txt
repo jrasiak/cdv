@@ -1,3 +1,5 @@
+Projekt wykonany przez Jana Rasiaka oraz Adriana Wdowczyka
+
 Raport z analizy danych i klasyfikacji wiadomości jako spam lub ham
 1. Wprowadzenie
 Celem tego projektu jest stworzenie klasyfikatora, który będzie w stanie odróżniać wiadomości spam od wiadomości ham (nie-spam). W projekcie wykorzystano zbiór danych zawierający wiadomości oznaczone jako spam lub ham oraz przeprowadzono szereg operacji przetwarzania danych, wektoryzacji tekstu, próbkowania, trenowania modelu oraz analizy wyników.
